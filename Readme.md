@@ -13,3 +13,4 @@ My name is Petre Gabriel and I am 19 years old. I make websites from an early ag
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgabriel02&show_icons=true&theme=transparent)
