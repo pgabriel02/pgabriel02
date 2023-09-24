@@ -20,14 +20,14 @@ My name is Petre Gabriel and I am 21 years old. I make websites from an early ag
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 - **Back-End Development**
   
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+
 
 - **Databases**
 
@@ -51,6 +51,15 @@ My name is Petre Gabriel and I am 21 years old. I make websites from an early ag
   ![FastAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=fastapi)
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Trophies </b>
+
+<div style='display: flex; align-items: center; justify-content: center; width: 100%;'>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=pgabriel02&theme=onedark)]()
+  
+</div>
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Connect with me</b>
   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/petre-gabriel/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -61,3 +70,5 @@ My name is Petre Gabriel and I am 21 years old. I make websites from an early ag
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgabriel02" alt="GitHub Stats" /> <br/><br/>
 </p>
+
+
